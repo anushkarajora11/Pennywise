@@ -22,8 +22,13 @@ Ongoing
 - `analytics/` – Reports and financial analysis  
 - `docs/` – SRS and design documents  
 
-## Technologies
-- Programming Language: TBD  
-- Database: TBD  
-- Tools: GitHub, UML Diagrams
+## Technologies Used
+
+- **Programming Language:** JavaScript  
+- **Frontend:** React, HTML, CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MySQL  
+- **Tools:** GitHub, UML Diagrams, Visual Studio Code, Postman  
+- **Protocols:** HTTP/HTTPS
+
 
