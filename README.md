@@ -31,4 +31,8 @@ Ongoing
 - **Tools:** GitHub, UML Diagrams, Visual Studio Code, Postman  
 - **Protocols:** HTTP/HTTPS
 
+## License 
+ This project is licensed under the MIT License.
+
+
 
